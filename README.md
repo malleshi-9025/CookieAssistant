@@ -92,4 +92,7 @@ Compatible with following mods.
   - Enabling all features at all times may cause the game to become progressively slower.Restarting game will fix it.
 - JP
   - 常時すべての機能をONにしていると、ゲームが徐々に重くなることがあります。その場合はゲームを再起動してください。
-
+# Who can participate in Hacktoberfest?
+Hacktoberfest is open to everyone in our global community!
+How to participate? You just need to make five contributions
+to open source before October 31 and can receive a free Hacktoberfest t-shirt.
